@@ -1,0 +1,13 @@
+{
+    "name": "collins/mpesa_api",
+    "description": "New Mpesa Api Package",
+    "authors": [
+        {
+            "name": "Collins Lenjo",
+            "email": "collinslenjo.cl@gmail.com"
+        }
+    ],
+    "require": {
+    	"guzzlehttp/guzzle": "~6.0"
+    }
+}
