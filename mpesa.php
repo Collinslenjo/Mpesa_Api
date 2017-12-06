@@ -280,8 +280,4 @@ class Mpesa{
 
 		echo $curl_response;
 	}
-
-
-	public function notifications(){}
-	public function callback_url(){}
 }
