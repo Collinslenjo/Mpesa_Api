@@ -7,8 +7,8 @@
    * in your `config.ini` file put the following:
    ```
 	[CONFIG]
-	ConsumerKey = XcYDnLI6Eg7hd2S8IZJFK5d3zptKMXzO
-	ConsumerSecret = Gch9EMGSAVen8lzf
+	ConsumerKey = yourConsumerKey
+	ConsumerSecret = yourConsumerSecret
    ```
 
 ##### Making a Mobile checkout Request
